@@ -1,0 +1,47 @@
+*{
+    /* background-color: brown; */
+}
+
+/* Nav Part */
+.barreNav{
+    background-color: rgb(197, 177, 154) !important;
+}
+
+.logo{
+    margin-left: 1%;
+    font-size: x-large;
+    font-weight: bold;
+    /* color: rgb(224, 231, 34) !important; */
+
+}
+
+.menuN{
+    margin-left: 70%;
+}
+
+/* Hero Part */
+.imgHero{
+    height: 90vh;
+}
+.partHero{
+    position: relative;
+}
+.presentation{
+   position:absolute;
+   top:50%
+
+}
+.presentation h5{
+    font-size: 5rem;
+    font-weight: bold;
+    color: rgb(157 172 191);
+}
+.presentation p{
+    text-align: center;
+}
+.presentation button{
+    padding:2%;
+}
+.presentation span{
+    font-weight: 900;
+}
